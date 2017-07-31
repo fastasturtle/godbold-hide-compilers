@@ -1,0 +1,7 @@
+@-moz-document domain("gcc.godbolt.org") {
+div.selectize-dropdown.single.compiler-picker
+	div.selectize-dropdown-content
+		div:not([data-value="clang_trunk"]):not([data-value="gsnapshot"]):not([data-value="cl19_64"])
+{ display: none; }
+
+}
