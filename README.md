@@ -1,6 +1,6 @@
 # Shorten the dropdown of compilers on gcc.godbolt.org
 
-Simple CSS that will leave only clang (trunk), gcc (snapshot) and CL 2017 in the dropdown list on [godbolt](https://gcc.godbolt.org/).
+Simple CSS that leaves only clang (trunk), gcc (snapshot) and CL 2017 in the dropdown list on [godbolt](https://gcc.godbolt.org/).
 
 To use, import this in the "Stylish" extension in Chrome/Firefox (I guess, didn't try it myself).
 
